@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Version
+  build="1.2.8-rev1"
+  template="https://github.com/LoESoft-Games/loe-realm-resources/releases/download/{VERSION}/{OS_NAME}.zip"
+  linux-os-name="Linux"
+  mac-os-name="Mac"
+  windows-os-name-32="Windows.-.32.bits"
+  windows-os-name-64="Windows.-.64.bits" />
